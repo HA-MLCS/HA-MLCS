@@ -1,4 +1,4 @@
-# I-MLCS
+# NP-MLCS
 ## Introduction
 We propose a novel *MLCS* (<u>**M**</u>ultiple <u>**L**</u>ongest <u>**C**</u>ommon <u>**S**</u>ubsequence) algorithm **NP-MLCS** for COVID-19 big sequence data similarity analysis.
 
