@@ -1,0 +1,14 @@
+*.log
+*.result
+*.temp
+/.idea
+/.settings
+/bin
+/lib
+/out
+/META-INF
+.classpath
+.project
+NP-MLCS.iml
+/src/META-INF/MANIFEST.MF
+/src/META-INF/
