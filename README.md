@@ -1,6 +1,6 @@
 # HA-MLCS
 ## Introduction
-We propose a novel *MLCS* (<u>**M**</u>ultiple <u>**L**</u>ongest <u>**C**</u>ommon <u>**S**</u>ubsequence) algorithm **HA-MLCS** for COVID-19 big sequence data similarity analysis.
+We propose a novel <u>**H**</u>igh-precision <u>**A**</u>pproximate <u>**M**</u>ultiple <u>**L**</u>ongest <u>**C**</u>ommon <u>**S**</u>ubsequence algorithm <u>**HA-MLCS**</u> for COVID-19 big sequence data similarity analysis.
 
 ## Install & Run
 
