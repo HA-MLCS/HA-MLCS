@@ -1,8 +1,8 @@
-package mlcs.np;
+package mlcs.ha;
 
-import mlcs.np.util.Logger;
-import mlcs.np.util.Queues;
-import mlcs.np.util.Stopwatch;
+import mlcs.ha.util.Logger;
+import mlcs.ha.util.Queues;
+import mlcs.ha.util.Stopwatch;
 
 import java.math.BigDecimal;
 import java.util.*;

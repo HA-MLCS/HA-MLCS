@@ -1,7 +1,7 @@
-package mlcs.np.util;
+package mlcs.ha.util;
 
-import mlcs.np.Location;
-import mlcs.np.Mlcs;
+import mlcs.ha.Location;
+import mlcs.ha.Mlcs;
 
 import javax.swing.*;
 import java.awt.*;

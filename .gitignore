@@ -1,6 +1,7 @@
 *.log
 *.result
 *.temp
+*.iml
 /.idea
 /.settings
 /bin
@@ -9,6 +10,5 @@
 /META-INF
 .classpath
 .project
-NP-MLCS.iml
 /src/META-INF/MANIFEST.MF
 /src/META-INF/

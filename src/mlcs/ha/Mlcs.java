@@ -1,4 +1,4 @@
-package mlcs.np;
+package mlcs.ha;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

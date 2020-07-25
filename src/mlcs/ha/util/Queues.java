@@ -1,4 +1,4 @@
-package mlcs.np.util;
+package mlcs.ha.util;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

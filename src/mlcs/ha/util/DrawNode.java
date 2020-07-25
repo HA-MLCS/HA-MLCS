@@ -1,6 +1,6 @@
-package mlcs.np.util;
+package mlcs.ha.util;
 
-import mlcs.np.Location;
+import mlcs.ha.Location;
 
 import java.io.Serializable;
 import java.util.ArrayList;

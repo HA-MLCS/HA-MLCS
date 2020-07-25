@@ -1,6 +1,6 @@
 package mlcs;
 
-import mlcs.np.Crawler;
+import mlcs.ha.Crawler;
 
 import java.io.FileWriter;
 import java.io.IOException;

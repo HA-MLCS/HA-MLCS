@@ -1,4 +1,4 @@
-package mlcs.np.util;
+package mlcs.ha.util;
 
 public class Logger {
   int level = 1;

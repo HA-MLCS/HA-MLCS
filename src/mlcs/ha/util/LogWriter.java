@@ -1,4 +1,4 @@
-package mlcs.np.util;
+package mlcs.ha.util;
 
 import java.io.*;
 import java.util.Properties;
